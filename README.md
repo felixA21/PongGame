@@ -5,12 +5,6 @@ This is a simple ping pong game implemented in Python using the Turtle graphics 
 The project is created in PyCharm and is meant to demonstrate basic game development concepts in Python.
 
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-
-
 ## Installation
 1. **Clone the repository:**
    ```bash
